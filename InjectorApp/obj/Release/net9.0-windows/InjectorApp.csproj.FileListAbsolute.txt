@@ -1,0 +1,15 @@
+X:\InjectorApp\bin\Release\net9.0-windows\InjectorApp.exe
+X:\InjectorApp\bin\Release\net9.0-windows\InjectorApp.deps.json
+X:\InjectorApp\bin\Release\net9.0-windows\InjectorApp.runtimeconfig.json
+X:\InjectorApp\bin\Release\net9.0-windows\InjectorApp.dll
+X:\InjectorApp\bin\Release\net9.0-windows\InjectorApp.pdb
+X:\InjectorApp\obj\Release\net9.0-windows\InjectorApp.GeneratedMSBuildEditorConfig.editorconfig
+X:\InjectorApp\obj\Release\net9.0-windows\InjectorApp.AssemblyInfoInputs.cache
+X:\InjectorApp\obj\Release\net9.0-windows\InjectorApp.AssemblyInfo.cs
+X:\InjectorApp\obj\Release\net9.0-windows\InjectorApp.csproj.CoreCompileInputs.cache
+X:\InjectorApp\obj\Release\net9.0-windows\InjectorApp.sourcelink.json
+X:\InjectorApp\obj\Release\net9.0-windows\InjectorApp.dll
+X:\InjectorApp\obj\Release\net9.0-windows\refint\InjectorApp.dll
+X:\InjectorApp\obj\Release\net9.0-windows\InjectorApp.pdb
+X:\InjectorApp\obj\Release\net9.0-windows\InjectorApp.genruntimeconfig.cache
+X:\InjectorApp\obj\Release\net9.0-windows\ref\InjectorApp.dll
