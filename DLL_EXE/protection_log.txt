@@ -1,0 +1,7 @@
+[*] Process started. Arg count: 1
+[!] Protection is NOT active. Restarting with protection...
+[*] Launching: X:\DLL_EXE\TargetProcessWithProtection.exe xakep
+[+] Protected process started. PID: 1476
+[*] Process started. Arg count: 2
+[*] Arg 1: xakep
+[+] Protection is active. Sleeping forever.
