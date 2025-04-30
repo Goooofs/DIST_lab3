@@ -38,7 +38,12 @@ namespace DllInjectorGUI
             Process[] targetProcesses = Process.GetProcessesByName("TargetProcess");
             if (targetProcesses == null || targetProcesses.Length == 0)
             {
-                MessageBox.Show("TargetProcess.exe process was not found.", "error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                targetProcesses = Process.GetProcessesByName("TargetProcessWithProtection");
+            }
+
+            if (targetProcesses == null || targetProcesses.Length == 0)
+            { 
+                MessageBox.Show("TargetProcess.exe or TargetProcessWithProtection.exe process was not found.", "error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 

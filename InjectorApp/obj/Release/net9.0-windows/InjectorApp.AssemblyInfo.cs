@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InjectorApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4477e772104c6fde73d067de2d33c9787812bca2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34c984cd8bcdf206ca395915fd82803bccc3818d")]
 [assembly: System.Reflection.AssemblyProductAttribute("InjectorApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InjectorApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
